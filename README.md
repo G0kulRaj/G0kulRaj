@@ -18,7 +18,7 @@ Some of the key technologies and tools I work with include:
 ![Gokul Raj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gokulraj34&show_icons=true&hide=contribs&theme=radical)
 
 ## Get In Touch
-- LinkedIn:[Your LinkedIn profile URL](https://www.linkedin.com/in/gokul-raj-1a72b1199/)
+- LinkedIn:[profile](https://www.linkedin.com/in/gokul-raj-1a72b1199/)
 - Email: [gokulrajxa@gmail.com]
 
 ## Contributions and Open Source
