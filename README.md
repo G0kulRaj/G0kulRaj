@@ -29,7 +29,6 @@ I love to travel and explore new places. I believe it refreshes my mind and fuel
 
 Thanks for visiting my GitHub profile. Happy coding! 😄
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64b3553f9a1017508d211425?variant=dark)](https://roadmap.sh)
 
 
 
